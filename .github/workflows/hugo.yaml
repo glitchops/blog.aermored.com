@@ -52,6 +52,8 @@ jobs:
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: Install PostCSS
         run: "npm install postcss-cli"
+      - name: Install lowkey npm packages
+        run: "npm install"
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
