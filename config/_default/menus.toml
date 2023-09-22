@@ -1,0 +1,37 @@
+[[main]]
+    identifier = "home"
+    name = "Home"
+    url = "https://aermored.com"
+    weight = 1
+
+[[main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts"
+    weight = 2
+
+[[main]]
+    identifier = "categories"
+    name = "Categories"
+    url = "/categories"
+    weight = 3
+
+[[main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags"
+    weight = 4
+
+# Social Media Configuration
+
+[[social]]
+    identifier = "twitter"
+    name = "Twitter"
+    url = "https://twitter.com/AERMORedTeam"
+    weight = 1
+
+[[social]]
+    identifier = "github"
+    name = "GitHub"
+    url = "https://github.com/aermored"
+    weight = 3
