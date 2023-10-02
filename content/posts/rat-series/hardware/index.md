@@ -87,5 +87,6 @@ We'll cover the software side of this project in the next post in this series.
 
 Other posts in the hardware implant series:
 - [Part 1: Hardware Implants as an Initial Access Vector]({{< ref "/posts/rat-series/hardware" >}})
+- [Part 2: Configuring the Software for Our Hardware Implant]({{< ref "/posts/rat-series/software" >}})
 
 [^1]: https://www.proxynova.com/tools/brute-force-calculator/
