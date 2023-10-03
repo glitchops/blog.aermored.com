@@ -28,10 +28,16 @@
     identifier = "twitter"
     name = "Twitter"
     url = "https://twitter.com/AERMORedTeam"
-    weight = 1
+    weight = 2
 
 [[social]]
     identifier = "github"
     name = "GitHub"
     url = "https://github.com/aermored"
     weight = 3
+
+[[social]]
+    identifier = "rss"
+    name = "RSS"
+    url = "/index.xml"
+    weight = 1

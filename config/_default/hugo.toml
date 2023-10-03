@@ -1,5 +1,5 @@
 baseURL = 'https://blog.aermored.com/'
-copyright = "{year}" # To make 2007 - 2022. Just add before {year} example: 2007 - {year}
+copyright = "2023" # To make 2007 - 2022. Just add before {year} example: 2007 - {year}
 languageCode = 'en-us'
 theme = 'lowkey'
 title = 'AERMORed Blog'
@@ -8,6 +8,10 @@ enableRobotsTXT = true
 # List Config
 summaryLength= 15
 paginate = 5
+
+[Author]
+    name = "AERMORed Team"
+    email = "info@aermored.com"
 
 [markup.highlight]
       codeFences = false
