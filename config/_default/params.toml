@@ -7,6 +7,9 @@ description = "Tales from the AERMORed Team"
 # Header Configuration
 avatar = "img/profile_pic.png"
 
+# Google Analytics
+googleAnalyticsID = "G-8JEYQ0K0DP"
+
 # disqus is a comment system. see https://disqus.com
 disqusShortname = ""
 
