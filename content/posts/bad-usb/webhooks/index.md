@@ -1,7 +1,7 @@
 ---
 title: "Red Pandas Unleashed: How Webhooks, Bad USB, and WiFi Collide in Cyberspace"
-date: 2023-10-06T20:18:54-04:00
-draft: true # Set 'false' to publish
+date: 2023-10-10T16:00:00-04:00
+draft: false # Set 'false' to publish
 description: "Webhooks as a means of data exfiltration"
 categories:
 - Bad USB
@@ -232,7 +232,7 @@ digital realm. With webhooks as our ally, we are not just Pentesters; we are the
 
 ---
 
-Our bad USB script repository can be found on our [Github](https://github.com/aermored/ducky-scripts). As we create
+Our bad USB script repository can be found on our [GitHub](https://github.com/aermored/ducky-scripts). As we create
 additional payloads, they will be uploaded there.
 
 [^1]: https://developers.mattermost.com/integrate/webhooks/incoming/
